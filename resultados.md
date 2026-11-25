@@ -17,3 +17,4 @@ Publicado 2026-11-25: YouTube https://www.youtube.com/watch?v=prkE6U1DLYM · Tik
 | El error en sentadilla (25/11) | 0 (recién subido) | - | 24 |
 TikTok: 0 seguidores, 4 me gusta en total. YouTube funciona mucho mejor por ahora.
 Ojo: en la cuadrícula del perfil de TikTok se corta el texto de arriba. Poner el título más abajo (y ≈ 330).
+Republicado 2026-11-25 con audio arreglado: YouTube https://www.youtube.com/watch?v=uvR8S2Rk0jc · TikTok https://www.tiktok.com/@pechuga_gym/video/7712198285993217313 (la versión sin audio la borra el dueño)
