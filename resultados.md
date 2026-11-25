@@ -7,3 +7,4 @@
 | 2026-11-25 | El error de Pechuga en sentadilla (baja 2 cm vs. así sí) | «Haz la repetición mal y corrígela» (tryvolume.app, 24/11/2026: 8 cuentas, mediana 22x su media) | No (ritmo propio ffmpeg) | - | - | - | - |
 
 Nota 2026-11-25: cifras del vídeo del 24/11 no leídas. Leerlas en TikTok cuesta 5 créditos y entre semana no se gastan. Publicado: https://www.tiktok.com/@pechuga_gym/video/7711791794790468897 y https://www.youtube.com/watch?v=zD0Gj17E0fM
+Publicado 2026-11-25: YouTube https://www.youtube.com/watch?v=prkE6U1DLYM · TikTok entregado (vidIQ no dio enlace todavía)
