@@ -129,14 +129,24 @@ ESCENAS = [(escena1, 3.0), (escena2, 3.5), (escena3, 4.5), (escena4, 4.0)]
 
 
 def ritmo(segundos, ruta):
-    """Ritmo original hecho con ffmpeg: bombo + charles + bajo. Sin música con derechos."""
+    """Ritmo original hecho con ffmpeg: bombo + palmada + charles + melodía.
+    Sin música con derechos. La melodía y la palmada van en frecuencias medias/agudas
+    para que se oigan también en altavoces de móvil y portátil (el bajo solo no se oye)."""
     b = 0.5  # 120 pulsaciones por minuto
-    expr = (f"0.55*sin(2*PI*mod(t,{b})*(45+120*exp(-mod(t,{b})*30)))*exp(-mod(t,{b})*9)"
-            f"+0.12*(random(0)*2-1)*exp(-mod(t+{b/2},{b})*45)"
-            f"+0.18*sin(2*PI*(if(lt(mod(t,4),2),55,49))*t)*exp(-mod(t,{b/2})*5)")
+    notas = [523, 659, 784, 659, 587, 523, 440, 523]  # una nota cada 1/4 s, se repite cada 2 s
+    n = "floor(mod(t,2)*4)"
+    f = str(notas[-1])
+    for k in range(len(notas) - 2, -1, -1):
+        f = f"if(eq({n},{k}),{notas[k]},{f})"
+    env = "exp(-mod(t,0.25)*9)"
+    expr = (f"0.45*sin(2*PI*mod(t,{b})*(60+140*exp(-mod(t,{b})*30)))*exp(-mod(t,{b})*9)"  # bombo
+            f"+0.35*(random(0)*2-1)*exp(-mod(t+0.5,1)*22)"  # palmada en el 2 y el 4
+            f"+0.18*(random(1)*2-1)*exp(-mod(t+{b/2},{b})*60)"  # charles
+            f"+0.22*(sin(2*PI*({f})*t)+0.35*sin(4*PI*({f})*t))*{env}")  # melodía
     subprocess.run(["ffmpeg", "-y", "-loglevel", "error", "-f", "lavfi", "-i",
                     f"aevalsrc='{expr}':s=44100:d={segundos}",
-                    "-af", f"afade=t=out:st={segundos - 1}:d=1,volume=0.8", ruta], check=True)
+                    "-af", f"loudnorm=I=-14:TP=-1.5,afade=t=out:st={segundos - 1}:d=1",
+                    "-ar", "44100", ruta], check=True)
 
 
 if __name__ == "__main__":
