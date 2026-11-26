@@ -25,3 +25,4 @@ Republicado 2026-11-25 con audio arreglado: YouTube https://www.youtube.com/watc
 Publicado 2026-11-26: YouTube https://www.youtube.com/watch?v=4aerPecEPDE · TikTok https://www.tiktok.com/@pechuga_gym/video/7712474271020354849
 | 2026-11-26 (2º) | Siempre hay energía para el día de pecho (batería: pierna 1%, cardio 0%, estirar -5%, pecho 999%) | Cortes rápidos «mi energía para X:» (tendencia «Always energy for chest day», virlo.ai: 373 vídeos, 212,9M vistas, visto desde 10/09/2026; ya en bajada) | No (ritmo propio ffmpeg) | - | - | - | - |
 Nota 2026-11-26 (2º vídeo): borrador creado (TikTok + YouTube), pendiente de que el dueño diga «publica». Cifras de vídeos anteriores no leídas: en TikTok cuesta 5 créditos y entre semana no se gastan.
+Publicado 2026-11-26 (2º vídeo, 19:25): YouTube https://www.youtube.com/watch?v=pqQOwpEeNL4 · TikTok https://www.tiktok.com/@pechuga_gym/video/7712547036406566183
