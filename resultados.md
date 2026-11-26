@@ -23,3 +23,5 @@ Republicado 2026-11-25 con audio arreglado: YouTube https://www.youtube.com/watc
 |---|---|---|---|---|---|---|---|
 | 2026-11-26 | Las 3 excusas de Pechuga para no hacer pierna | «Empieza con una frase que dice tu público y respóndela» (tryvolume.app, 24/11/2026: 8 cuentas, mediana 14x) | Sí (Antonio, 34 créditos, a petición del dueño) | - | - | - | - |
 Publicado 2026-11-26: YouTube https://www.youtube.com/watch?v=4aerPecEPDE · TikTok https://www.tiktok.com/@pechuga_gym/video/7712474271020354849
+| 2026-11-26 (2º) | Siempre hay energía para el día de pecho (batería: pierna 1%, cardio 0%, estirar -5%, pecho 999%) | Cortes rápidos «mi energía para X:» (tendencia «Always energy for chest day», virlo.ai: 373 vídeos, 212,9M vistas, visto desde 10/09/2026; ya en bajada) | No (ritmo propio ffmpeg) | - | - | - | - |
+Nota 2026-11-26 (2º vídeo): borrador creado (TikTok + YouTube), pendiente de que el dueño diga «publica». Cifras de vídeos anteriores no leídas: en TikTok cuesta 5 créditos y entre semana no se gastan.
