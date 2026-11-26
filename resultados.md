@@ -22,3 +22,4 @@ Republicado 2026-11-25 con audio arreglado: YouTube https://www.youtube.com/watc
 | Fecha | Idea | Formato | Voz | Visualizaciones | Me gusta | Comentarios | Compartidos |
 |---|---|---|---|---|---|---|---|
 | 2026-11-26 | Las 3 excusas de Pechuga para no hacer pierna | «Empieza con una frase que dice tu público y respóndela» (tryvolume.app, 24/11/2026: 8 cuentas, mediana 14x) | Sí (Antonio, 34 créditos, a petición del dueño) | - | - | - | - |
+Publicado 2026-11-26: YouTube https://www.youtube.com/watch?v=4aerPecEPDE · TikTok https://www.tiktok.com/@pechuga_gym/video/7712474271020354849
