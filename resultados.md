@@ -30,3 +30,4 @@ Publicado 2026-11-26 (vídeo «Cómo sale Pechuga cuando ve que toca pierna», T
 Publicado 2026-11-27 (14:25, adelantado de las 15:00 a petición del dueño) «Pechuga cuando ve que hoy toca pierna»: TikTok https://www.tiktok.com/@pechuga_gym/video/7712841157167942945 · YouTube https://www.youtube.com/watch?v=QHKFSBvL8ew
 | 2026-11-27 | El del móvil en el banco de press («Me queda una serie»… hace 15 min) + plan B: press con mancuernas | POV de situación del gym + consejo correcto | Sí (Antonio, 33 créditos) | - | - | - | - |
 Nota 2026-11-27: borrador creado (TikTok + YouTube), pendiente de «publica». Cifras de vídeos anteriores no leídas (en TikTok cuesta 5 créditos).
+Publicado 2026-11-27 «El del móvil en el banco»: YouTube https://www.youtube.com/watch?v=Pah5BqL8QqA · TikTok https://www.tiktok.com/@pechuga_gym/video/7712846942895607079
