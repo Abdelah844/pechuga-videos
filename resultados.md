@@ -31,3 +31,5 @@ Publicado 2026-11-27 (14:25, adelantado de las 15:00 a petición del dueño) «P
 | 2026-11-27 | El del móvil en el banco de press («Me queda una serie»… hace 15 min) + plan B: press con mancuernas | POV de situación del gym + consejo correcto | Sí (Antonio, 33 créditos) | - | - | - | - |
 Nota 2026-11-27: borrador creado (TikTok + YouTube), pendiente de «publica». Cifras de vídeos anteriores no leídas (en TikTok cuesta 5 créditos).
 Publicado 2026-11-27 «El del móvil en el banco»: YouTube https://www.youtube.com/watch?v=Pah5BqL8QqA · TikTok https://www.tiktok.com/@pechuga_gym/video/7712846942895607079
+| 2026-11-27 (2º) | El corazón con el bíceps, versión Pechuga (bíceps: roto; piernas: no hay material; plan B: con la pechuga) | Trend #BicepHeart (en TikTok desde 26/10/2026; boxlifemagazine.com 03/11/2026: «más de 71.000 vídeos» la primera semana) | No (ritmo propio ffmpeg) | - | - | - | - |
+Nota 2026-11-27 (2º vídeo): borrador creado (TikTok + YouTube), pendiente de «publica». Cifras de vídeos anteriores no leídas: en TikTok cuesta 5 créditos y entre semana no se gastan.
