@@ -27,3 +27,4 @@ Publicado 2026-11-26: YouTube https://www.youtube.com/watch?v=4aerPecEPDE · Tik
 Nota 2026-11-26 (2º vídeo): borrador creado (TikTok + YouTube), pendiente de que el dueño diga «publica». Cifras de vídeos anteriores no leídas: en TikTok cuesta 5 créditos y entre semana no se gastan.
 Publicado 2026-11-26 (2º vídeo, 19:25): YouTube https://www.youtube.com/watch?v=pqQOwpEeNL4 · TikTok https://www.tiktok.com/@pechuga_gym/video/7712547036406566183
 Publicado 2026-11-26 (vídeo «Cómo sale Pechuga cuando ve que toca pierna», TikTok 19:02): TikTok https://www.tiktok.com/@pechuga_gym/video/7712542086637063457 · YouTube https://www.youtube.com/watch?v=QxDZ-TcR_nQ
+Publicado 2026-11-27 (14:25, adelantado de las 15:00 a petición del dueño) «Pechuga cuando ve que hoy toca pierna»: TikTok https://www.tiktok.com/@pechuga_gym/video/7712841157167942945 · YouTube https://www.youtube.com/watch?v=QHKFSBvL8ew
